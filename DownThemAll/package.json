@@ -1,0 +1,12 @@
+{
+  "name": "downthemall",
+  "version": "4.2.26",
+  "description": "The DownThemAll! WebExtension.",
+  "scripts": {
+    "watch": "webpack --watch --mode=development"
+  },
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
